@@ -1,0 +1,30 @@
+img {
+    border-radius: 50%;
+    display: block;
+    margin: 1% auto;
+    width: 20%;
+}
+body {
+  background: #4f3e0b;
+  font-family: Arial, Verdana;
+}
+.panel {
+  background-color: purple ;
+  margin: ;
+}
+.ground {
+  background-color: #074d54;
+  margin-right: 88%;
+  border-radius: 15%;
+}
+.rock {
+  text-align:center;
+  font-size: 17px;
+}
+.jumbotron {
+  background-color: #002128;
+  border-style: groove;
+  margin-top: 2% 4%;
+  margin-left: 10%;
+  margin-right: 10%
+}
