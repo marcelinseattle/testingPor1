@@ -10,12 +10,12 @@ body {
 }
 .panel {
   background-color: purple ;
-  margin: ;
+
 }
 .ground {
   background-color: #074d54;
-  margin-right: 88%;
-  border-radius: 15%;
+  margin-right: 79%;
+  border-radius: 18%;
 }
 .rock {
   text-align:center;
